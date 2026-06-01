@@ -91,10 +91,6 @@ The executive narrative in Step 5 should be something I can
 read out loud in the first 2 minutes of my presentation.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
-
 ## Notes
 - The more specific your exec sponsor priorities the better
 - Step 3 is the most important — naming trade-offs builds trust
