@@ -63,9 +63,6 @@ Use headers for each step. Be direct — no filler.
 If you need information I haven't provided, ask before proceeding.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here. 
-This helps others see what good looks like.
 
 ## Notes
 - Replace [PASTE REQUEST HERE] with the actual feature request
