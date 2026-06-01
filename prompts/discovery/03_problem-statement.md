@@ -76,9 +76,6 @@ The final output should be something I can paste directly into a
 discovery brief or share with an engineer today.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
 
 ## Notes
 - The more customer quotes you paste in the better the output
