@@ -101,9 +101,6 @@ Flag any area where my context was too thin to diagnose
 the problem accurately.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
 
 ## Notes
 - Step 1 is the most important — wrong diagnosis leads to 
