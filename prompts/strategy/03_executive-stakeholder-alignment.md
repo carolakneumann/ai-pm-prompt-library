@@ -81,10 +81,6 @@ The opening statement in Step 4 should be something I can
 deliver confidently without notes.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
-
 ## Notes
 - The more honest you are about objections the better the output
 - Step 3 is the most valuable — pre-alignment wins more rooms 
