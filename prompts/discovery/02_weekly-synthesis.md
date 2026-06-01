@@ -74,9 +74,6 @@ are we learning fast enough to influence the backlog, or are we
 running interviews that aren't changing anything?
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
 
 ## Notes
 - Paste raw notes as-is — messy is fine, Claude handles it
