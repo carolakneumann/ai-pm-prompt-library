@@ -96,9 +96,6 @@ Keep language direct — this output should be something
 I can bring into an exec review without editing.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
 
 ## Notes
 - Don't overthink the estimates — directionally right beats 
