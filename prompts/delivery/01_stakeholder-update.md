@@ -94,9 +94,6 @@ Write it for a cross-functional audience including
 engineering leads, design leads, and executive sponsors.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
 
 ## Notes
 - Be honest about blockers — hiding them costs more than 
