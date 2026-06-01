@@ -108,10 +108,6 @@ Flag any section where my context was too thin to write
 confidently — tell me what's missing.
 </output_format>
 
-## Example Output
-Paste a real output you got from running this prompt here.
-This helps others see what good looks like.
-
 ## Notes
 - The scope table in Step 3 prevents 80% of mid-sprint 
 scope creep
